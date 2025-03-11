@@ -18,7 +18,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Text-Summarization
+https://github.com/argorrepati01/textsummarizer.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -49,9 +49,8 @@ open up you local host and port
 
 
 ```bash
-Author: Krish Naik
-Data Scientist
-Email: krishnaik06@gmail.com
+Author: Sid Rishi
+Email: argorrepati01@gmail.com
 
 ```
 
@@ -128,4 +127,4 @@ Email: krishnaik06@gmail.com
 
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
-    ECR_REPOSITORY_NAME = simple-app
+    ECR_REPOSITORY_NAME = textsummarizer-app
