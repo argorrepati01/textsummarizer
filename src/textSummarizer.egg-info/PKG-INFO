@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.0
+Summary: A python package for NLP app
+Home-page: https://github.com/sidrishi/textsummarizer
+Author: sidrishi
+Author-email: argorrepati01@gmail.com
+Project-URL: Bug Tracker, https://github.com/sidrishi/textsummarizer/issues
+License-File: LICENSE
+
 # End to end Text-Summarizer-Project
 
 ## Workflows
@@ -89,7 +99,7 @@ Email: argorrepati01@gmail.com
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 761018859225.dkr.ecr.us-east-1.amazonaws.com/texts
+    - Save the URI: 566373416292.dkr.ecr.us-east-1.amazonaws.com/text-s
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
